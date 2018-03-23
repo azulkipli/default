@@ -2,7 +2,7 @@
 
 ## Documentation
 
-* This is the preact-mdl template for [preact-cli](https://github.com/developit/preact-cli).
+* This is the [preact-mdl](https://github.com/developit/preact-mdl) template for [preact-cli](https://github.com/developit/preact-cli).
 * [For Preact](https://preactjs.com/): General information about how to work with Preact, not specific to this template
 
 ## Usage
