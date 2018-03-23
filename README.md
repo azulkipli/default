@@ -9,6 +9,8 @@
 
 ```bash
 $ npm install -g preact-cli
+$ # preact create azulkipli/preactmdl my-project
+$ # OR
 $ preact create preact-mdl my-project
 $ cd my-project
 $ npm install
